@@ -1,2 +1,2 @@
-# Calculator
-calculator for calculate value.
+# First Project
+calculator and Multiplication Table. 
